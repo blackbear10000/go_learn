@@ -1,4 +1,7 @@
-<!-- TOC -->autoauto- [1. Install git on your machine](#1-install-git-on-your-machine)auto- [2. Add your account on your machine](#2-add-your-account-on-your-machine)auto- [3. Set your SSH Pub Key to your Github](#3-set-your-ssh-pub-key-to-your-github)auto- [4. Create and push a repository](#4-create-and-push-a-repository)autoauto<!-- /TOC -->
+- [1. Install git on your machine](#1-install-git-on-your-machine)
+- [2. Add your account on your machine](#2-add-your-account-on-your-machine)
+- [3. Set your SSH Pub Key to your Github](#3-set-your-ssh-pub-key-to-your-github)
+- [4. Create and push a repository](#4-create-and-push-a-repository)
 
 # 1. Install git on your machine
 You can follow this [link](https://git-scm.com/download/) to install git.
