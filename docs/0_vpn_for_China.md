@@ -1,7 +1,7 @@
 # 1. Set a VPN 
 I recommend [V2Ray](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey) to set your VPN.  
 
-# 2.install Privoxy
+# 2.Install Privoxy
 At the same time, you should install Privoxy on your Mac. Make your ternimal to use VPN by http agency, rather than sock5.
 ```
 brew install privoxy
