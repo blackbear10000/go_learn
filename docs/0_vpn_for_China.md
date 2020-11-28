@@ -1,3 +1,5 @@
+[TOC]
+
 # 1. Set a VPN 
 I recommend [V2Ray](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey) to set your VPN.  
 

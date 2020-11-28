@@ -1,3 +1,5 @@
+[TOC]
+
 # 1. Install git on your machine
 You can follow this [link](https://git-scm.com/download/) to install git.
 ```
